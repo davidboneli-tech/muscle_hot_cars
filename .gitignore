@@ -1,0 +1,9 @@
+# Este repositório público aceita somente documentação revisada.
+*
+!*/
+!README.md
+!CHANGELOG.md
+!DIREITOS.md
+!.gitignore
+!docs/**/*.md
+# Nenhuma regra libera código, executáveis ou credenciais.
